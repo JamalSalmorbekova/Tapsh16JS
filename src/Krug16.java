@@ -18,11 +18,11 @@ public class Krug16 {
     }
 
     public  static void ploshad(){
-        System.out.println("Площадь равна пи кобойтулгон " +
-                " айлананын  радиусунун  квадраты: " +PI*(radius*radius));
+        System.out.println(" Тегеректин  аянты барабар пи кобойтулгон " +
+                " айлананын  радиусунун  квадраты = PI*(radius*radius) = " +PI*(radius*radius)+";");
     }
 
     public static void tegerek(){
-        System.out.println(" Окружность круга равна пи*2*радиус: "+ PI*2*radius);
+        System.out.println(" Айлананын   узундугу барабар = PI*2*radius = Pi*d(d-диаметр=эки радиус )"+ PI*2*radius+";");
     }
 }
